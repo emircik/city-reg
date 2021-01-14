@@ -1,0 +1,41 @@
+{
+    "botSettings": {
+        "token": "Nzk4OTIyMDgwMzU0OTU5MzYw.X_8EKw.ybzZ2-fDGGWVr0TQuw436qveEBs",
+        "owners": [
+            "452545429184184330"
+        ],
+        "prefix": "!",
+        "botStatus": "Alkan code",
+        "botVoiceChannelID": "795313354679517239",
+        "mongoURL": "mongodb+srv://alkan:alkan123@cluster0.lfmex.mongodb.net/alkan?retryWrites=true&w=majority"
+    },
+    "channelSettings": {
+        "register": "795313354679517237",
+        "rules": "797735994862075915",
+        "wlcmessageChannel": "795313356306120731"
+    },
+    "roleSettings": {
+        "registerer": "795313354104373298",
+        "booster": [
+            ""
+        ],
+        "unregisteredRole": [
+            "795313354054172743"
+        ],
+        "girlRole": [
+            "795313354054172750"
+        ],
+        "boyRole": [
+            "795313354054172747"
+           
+        ]
+    },
+    "colors": {
+        "redColor": "RED",
+        "magentaColor": "#AF48F1"
+    },
+    "serverSettings": {
+        "serverID": "795313353911173150",
+        "serverTag": ""
+    }
+}
